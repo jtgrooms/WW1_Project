@@ -1,0 +1,2 @@
+The purpose of this project is to take a list of names of US soldiers that died in World War 1 and match them to individuals found on Family Search. Machine Learning methods such as regression trees or boosting algorithms are used in Python to find the most likely matches between WW1 data and US Census data or scraped data from Family Search. The scraped data is always prioritized because it is a list of people we already know died in World War 1, increasing the chances of being a match. 
+
